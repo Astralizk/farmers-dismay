@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "farmers-dismay",
+	"version": "${version}",
+	"name": "farmers-dismay",
+	"description": "When weaponry meets husbandry",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "I DONT HAVE ONE",
+		"sources": "no source :("
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/farmers-dismay/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.eviz.farmersdismay.FarmersDismay"
+		],
+		"fabric-datagen": [
+			"net.eviz.farmersdismay.FarmersDismayDataGenerator"
+		],
+		"client": [
+			"net.eviz.farmersdismay.FarmersDismayClient"
+			]
+	},
+	"mixins": [
+		"farmers-dismay.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
