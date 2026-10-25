@@ -1,5 +1,6 @@
 package net.eviz.farmersdismay;
 
+import net.eviz.farmersdismay.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
@@ -13,5 +14,5 @@ public class FarmersDismay implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}}
