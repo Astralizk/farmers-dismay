@@ -19,7 +19,7 @@ public class ModItems {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(FARMERS_XP);
-            entries.add(CRUSHED_FARMERS_XP)
+            entries.add(CRUSHED_FARMERS_XP);
 
         });
     }
