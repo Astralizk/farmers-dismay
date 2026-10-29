@@ -39,7 +39,6 @@ public class DecomposterScreen extends HandledScreen<DecomposterScreenHandler> {
         int x = (width - backgroundWidth) / 2;
         int y = (height - backgroundHeight) / 2;
 
-        // Draw the GUI background
         context.drawTexture(
                 TEXTURE,
                 x, y,
@@ -48,7 +47,6 @@ public class DecomposterScreen extends HandledScreen<DecomposterScreenHandler> {
                 256, 256
         );
 
-        // Draw the animated arrow (49 x 15 PNG)
         int progress = handler.getScaledProgress();
 
         if (progress > 0) {
@@ -61,7 +59,6 @@ public class DecomposterScreen extends HandledScreen<DecomposterScreenHandler> {
             );
         }
 
-        // Draw completion icon above the output slot
         if (handler.getSlot(1).hasStack()) {
             context.drawTexture(
                     COMPLETION_TEXTURE,
@@ -73,7 +70,6 @@ public class DecomposterScreen extends HandledScreen<DecomposterScreenHandler> {
         }
     }
 
-    // Hide both titles
     @Override
     protected void drawForeground(
             DrawContext context,

@@ -21,6 +21,16 @@ public class ModItemGroups {
                         entries.add(ModItems.POCKET_WATER);
                         entries.add(ModItems.BONEFEAST);
                         entries.add(ModBlocks.DECOMPOSTER);
+                        entries.add(ModItems.ROT_FERTILIZER);
+                        entries.add(ModItems.SCULK_FERTILIZER);
+                        entries.add(ModItems.PHANTOM_FERTILIZER);
+                        entries.add(ModItems.SUGAR_FERTILIZER);
+                        entries.add(ModItems.FERTILIZER);
+                        entries.add(ModItems.SACCHAROSE);
+                        entries.add(ModItems.SCULK_DUST);
+                        entries.add(ModItems.ROTTEN_COMPOST);
+                        entries.add(ModItems.PHANTOM_FEATHER);
+
 
                     }).build());
 

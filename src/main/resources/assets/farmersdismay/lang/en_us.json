@@ -3,6 +3,15 @@
   "item.farmersdismay.crushed_farmers_xp": "Crushed Farmer's Xp",
   "item.farmersdismay.pocket_water": "Pocket Water",
   "item.farmersdismay.bonefeast": "Bonefeast",
+  "item.farmersdismay.rot_fertilizer": "Rot Fertilizer",
+  "item.farmersdismay.sculk_fertilizer": "Sculk Fertilizer",
+  "item.farmersdismay.sugar_fertilizer": "Sugar Fertilizer",
+  "item.farmersdismay.phantom_fertilizer": "Phantom Fertilizer",
+  "item.farmersdismay.sculk_dust": "Sculk Dust",
+  "item.farmersdismay.rotten_compost": "Rotten Compost",
+  "item.farmersdismay.phantom_feather": "Phantom Feather",
+  "item.farmersdismay.saccharose": "Saccharose",
+  "item.farmersdismay.fertilizer": "Fertilizer",
   "block.farmersdismay.decomposter": "Decomposter",
   "itemgroup.farmersdismay.farmers_dismay_items": "Farmer's Dismay Items"
 }

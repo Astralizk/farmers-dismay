@@ -29,8 +29,6 @@ public interface ImplementedInventory extends SidedInventory {
         return of(DefaultedList.ofSize(size, ItemStack.EMPTY));
     }
 
-    // SidedInventory
-
 
     @Override
     default int[] getAvailableSlots(Direction side) {
@@ -53,8 +51,6 @@ public interface ImplementedInventory extends SidedInventory {
     default boolean canExtract(int slot, ItemStack stack, Direction side) {
         return true;
     }
-
-    // Inventory
 
 
     @Override
@@ -117,7 +113,6 @@ public interface ImplementedInventory extends SidedInventory {
 
     @Override
     default void markDirty() {
-        // Override if you want behavior.
     }
 
     @Override
