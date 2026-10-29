@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "farmersdismay:item/farmers_xp"
+    "layer0": "farmersdismay:item/crushed_farmers_xp"
   }
 }

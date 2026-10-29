@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "farmersdismay:block/decomposter_front",
+    "north": "farmersdismay:block/decomposter_back",
+    "south": "farmersdismay:block/decomposter_front",
+    "east": "farmersdismay:block/decomposter_right",
+    "west": "farmersdismay:block/decomposter_left",
+    "up": "farmersdismay:block/decomposter_top",
+    "down": "farmersdismay:block/decomposter_bottom"
+  }
+}

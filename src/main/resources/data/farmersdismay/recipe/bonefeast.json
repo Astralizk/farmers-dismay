@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "farmersdismay:crushed_farmers_xp"
+    },
+    "R": {
+      "item": "minecraft:moss_block"
+    },
+    "T": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+    "pattern": [
+      " # ",
+      "RTR",
+      " # "
+    ],
+    "result": {
+      "count": 1,
+      "id": "farmersdismay:bonefeast"
+    }
+  }
