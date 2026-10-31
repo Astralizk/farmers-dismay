@@ -36,7 +36,7 @@ public class ModItems {
 
     public static final Item SUGAR_FERTILIZER = registerItem("sugar_fertilizer", new SugarFertilizer(new Item.Settings().maxCount(64)));
 
-    public static final Item FERTILIZER = registerItem("fertilizer", new Fertilizer(new Item.Settings().maxDamage(16)));
+    public static final Item FERTILIZER = registerItem("fertilizer", new Fertilizer(new Item.Settings().maxCount(64)));
 
     public static final Item PHANTOM_WINGS = registerItem("phantom_wings", new PhantomWings(new Item.Settings().maxCount(16)));
 
