@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "farmers-dismay",
-	"version": "${version}",
+	"id": "farmersdismay",
+	"version": "1.0",
 	"name": "farmers-dismay",
-	"description": "When weaponry meets husbandry",
+	"description": "A simpleish mod that adds some additions to farming!",
 	"authors": [
-		"Me!"
+		"Eviz"
 	],
 	"contact": {
-		"homepage": "I DONT HAVE ONE",
-		"sources": "no source :("
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Astralizk/farmers-dismay"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/farmers-dismay/icon.png",
+	"icon": "assets/farmersdismay/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
