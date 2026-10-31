@@ -3,8 +3,11 @@ A kinda farming focused mod that adds custom tools, items, fertilizers and new f
 
 <img width="910" height="378" alt="image" src="https://github.com/user-attachments/assets/4d483372-b286-4e2e-a582-9ce80242b48b" />
 - Custom items
+
 - Fertilizers
+
 - Custom blocks
+
 - A custom crop event that makes your crops have a random chance to be special and have increased drops
 
 
