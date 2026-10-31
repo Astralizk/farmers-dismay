@@ -1,0 +1,22 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SFS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "farmersdismay:saccharose"
+    },
+    "F": {
+      "item": "farmersdismay:fertilizer"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:sugar_fertilizer",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:glow_lichen"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 150
+}

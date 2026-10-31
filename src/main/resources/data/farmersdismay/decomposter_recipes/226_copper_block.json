@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:copper_block"
+  },
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 4
+  },
+  "processing_time": 240
+}

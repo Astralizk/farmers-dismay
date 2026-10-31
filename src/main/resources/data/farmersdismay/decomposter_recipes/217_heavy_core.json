@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:heavy_core"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 4
+  },
+  "processing_time": 500
+}

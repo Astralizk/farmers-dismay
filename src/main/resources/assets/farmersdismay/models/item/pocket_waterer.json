@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "farmersdismay:item/pocket_water"
+    "layer0": "farmersdismay:item/pocket_waterer"
   }
 }

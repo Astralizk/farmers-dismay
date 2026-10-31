@@ -1,11 +1,10 @@
-
 {
   "ingredient": {
-    "item": "minecraft:wheat"
+    "item": "minecraft:red_tulip"
   },
   "result": {
     "id": "minecraft:bone_meal",
     "count": 2
   },
-  "processing_time": 100
+  "processing_time": 150
 }

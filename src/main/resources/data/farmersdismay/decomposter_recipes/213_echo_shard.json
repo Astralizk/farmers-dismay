@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 4
+  },
+  "processing_time": 320
+}

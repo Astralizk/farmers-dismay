@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:re_sickler"
+    },
+    "title": "Eco Helper???",
+    "description": "me when climate change",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_digger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:re_sickler"
+          }
+        ]
+      }
+    }
+  }
+}

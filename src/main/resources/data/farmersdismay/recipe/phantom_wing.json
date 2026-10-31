@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SBS",
+    "SFS",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "farmersdismay:phantom_feather"
+    },
+    "F": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:phantom_wings",
+    "count": 1
+  }
+}

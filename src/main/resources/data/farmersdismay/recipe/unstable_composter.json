@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BSB",
+    "SFS",
+    "BSB"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:tnt"
+    },
+    "F": {
+      "item": "minecraft:composter"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:unstable_composter",
+    "count": 1
+  }
+}

@@ -3,6 +3,7 @@ package net.eviz.farmersdismay.block;
 
 import net.eviz.farmersdismay.FarmersDismay;
 import net.eviz.farmersdismay.block.custom.Decomposter;
+import net.eviz.farmersdismay.block.custom.UnstableComposterBlock;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
@@ -17,15 +18,9 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
 
-    public static final Block DECOMPOSTER = registerBlock(
-            "decomposter",
-            new Decomposter(
-                    AbstractBlock.Settings.copy(Blocks.COMPOSTER)
-                            .strength(3f)
-                            .requiresTool()
-                            .sounds(BlockSoundGroup.ANVIL)
-            )
-    );
+    public static final Block DECOMPOSTER = registerBlock("decomposter", new Decomposter(AbstractBlock.Settings.copy(Blocks.COMPOSTER).strength(3f).requiresTool().sounds(BlockSoundGroup.ANVIL)));
+
+    public static final Block UNSTABLE_COMPOSTER_BLOCK = registerBlock("unstable_composter", new UnstableComposterBlock(AbstractBlock.Settings.copy(Blocks.COMPOSTER)));
 
     public static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

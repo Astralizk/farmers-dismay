@@ -1,13 +1,18 @@
+
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "building",
-  "ingredients": [
-    {
-      "item": "farmersdismay:farmers_xp"
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
   ],
+  "key": {
+    "R": {
+      "item": "farmersdismay:crushed_farmers_xp"
+    }
+  },
   "result": {
-    "count": 9,
-    "id": "farmersdismay:crushed_farmers_xp"
+    "id": "farmersdismay:farmers_xp",
+    "count": 1
   }
 }

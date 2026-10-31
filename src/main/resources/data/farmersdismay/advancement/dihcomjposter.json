@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:decomposter"
+    },
+    "title": "Reduce to nothingness",
+    "description": "it doesnt reduce to nothingness actually",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_digger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:decomposter"
+          }
+        ]
+      }
+    }
+  }
+}

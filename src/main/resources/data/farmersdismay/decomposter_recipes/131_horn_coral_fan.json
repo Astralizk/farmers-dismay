@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:horn_coral_fan"
+  },
+  "result": {
+    "id": "minecraft:prismarine_shard",
+    "count": 2
+  },
+  "processing_time": 230
+}

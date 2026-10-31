@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:dragon_breath"
+  },
+  "result": {
+    "id": "minecraft:glass_bottle",
+    "count": 2
+  },
+  "processing_time": 260
+}

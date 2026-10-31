@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:lily_of_the_valley"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 150
+}

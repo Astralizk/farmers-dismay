@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:jungle_leaves"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  },
+  "processing_time": 190
+}

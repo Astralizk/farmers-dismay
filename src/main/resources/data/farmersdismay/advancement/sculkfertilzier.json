@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:sculk_fertilizer"
+    },
+    "title": "INF3STATION",
+    "description": "when the big crab goes click click click click",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:sculk_fertilizer"
+          }
+        ]
+      }
+    }
+  }
+}

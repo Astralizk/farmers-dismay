@@ -1,14 +1,15 @@
+
 {
 	"required": true,
 	"package": "net.eviz.farmersdismay.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"PlayerEntityMixin",
+		"FireworkMixin",
+		"CropRouletteGrowthMixin",
+		"CropRouletteLootMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
-	},
-	"overwrites": {
-		"requireAnnotations": true
 	}
 }

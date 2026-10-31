@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:sculk_sensor"
+  },
+  "result": {
+    "id": "minecraft:echo_shard",
+    "count": 1
+  },
+  "processing_time": 400
+}

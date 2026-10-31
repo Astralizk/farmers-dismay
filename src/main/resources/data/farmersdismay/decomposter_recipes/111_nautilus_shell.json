@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 3
+  },
+  "processing_time": 210
+}

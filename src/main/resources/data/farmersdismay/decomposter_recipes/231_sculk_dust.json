@@ -1,0 +1,11 @@
+
+{
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "farmersdismay:sculk_dust",
+    "count": 6
+  },
+  "processing_time": 150
+}

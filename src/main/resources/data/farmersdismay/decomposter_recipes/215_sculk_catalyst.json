@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:sculk_catalyst"
+  },
+  "result": {
+    "id": "minecraft:sculk",
+    "count": 2
+  },
+  "processing_time": 360
+}

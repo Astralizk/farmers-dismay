@@ -1,0 +1,9 @@
+
+{
+  "parent": "minecraft:block/composter",
+  "textures": {
+    "side": "farmersdismay:block/composter_side",
+    "top": "farmersdismay:block/composter_top",
+    "bottom": "farmersdismay:block/composter_bottom"
+  }
+}

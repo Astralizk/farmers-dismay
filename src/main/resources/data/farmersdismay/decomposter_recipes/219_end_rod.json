@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:end_rod"
+  },
+  "result": {
+    "id": "minecraft:blaze_rod",
+    "count": 1
+  },
+  "processing_time": 300
+}

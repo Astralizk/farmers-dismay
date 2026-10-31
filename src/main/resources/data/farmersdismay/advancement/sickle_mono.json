@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:uni_sickle"
+    },
+    "title": "Farmer in a circus",
+    "description": "me when the cycle has one wheel",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_digger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:uni_sickle"
+          }
+        ]
+      }
+    }
+  }
+}

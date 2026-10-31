@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:phantom_fertilizer"
+    },
+    "title": "it was halloween when i made this",
+    "description": "ok ok ok ok ok",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:phantom_fertilizer"
+          }
+        ]
+      }
+    }
+  }
+}

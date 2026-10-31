@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:red_mushroom"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 140
+}

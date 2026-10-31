@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:mangrove_roots"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  },
+  "processing_time": 190
+}

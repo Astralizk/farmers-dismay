@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:pink_tulip"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 150
+}

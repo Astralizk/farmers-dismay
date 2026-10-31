@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:pumpkin"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 140
+}

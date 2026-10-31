@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 6
+  },
+  "processing_time": 260
+}

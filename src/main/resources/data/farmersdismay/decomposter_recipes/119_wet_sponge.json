@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:wet_sponge"
+  },
+  "result": {
+    "id": "minecraft:prismarine_shard",
+    "count": 2
+  },
+  "processing_time": 230
+}

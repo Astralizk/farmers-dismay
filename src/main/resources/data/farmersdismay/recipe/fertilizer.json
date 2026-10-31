@@ -1,6 +1,12 @@
+
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "pattern": [
+    " R ",
+    "RTR",
+    " R "
+  ],
   "key": {
     "R": {
       "item": "minecraft:leather"
@@ -9,13 +15,8 @@
       "item": "minecraft:bone_meal"
     }
   },
-  "pattern": [
-    "  ",
-    "RTR",
-    "  "
-  ],
   "result": {
-    "count": 1,
-    "id": "farmersdismay:fertilizer"
+    "id": "farmersdismay:fertilizer",
+    "count": 1
   }
 }

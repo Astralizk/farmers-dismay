@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RFR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "farmersdismay:rotten_compost"
+    },
+    "F": {
+      "item": "farmersdismay:fertilizer"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:rot_fertilizer",
+    "count": 1
+  }
+}

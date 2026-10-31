@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:sugar"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 1
+  },
+  "processing_time": 90
+}

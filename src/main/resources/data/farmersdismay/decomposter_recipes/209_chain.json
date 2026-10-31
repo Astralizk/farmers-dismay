@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:chain"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 180
+}

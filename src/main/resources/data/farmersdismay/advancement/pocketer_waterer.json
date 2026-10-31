@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:pocket_waterer"
+    },
+    "title": "Wocket in my pocket",
+    "description": "this items kinda useless tbh",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:pocket_waterer"
+          }
+        ]
+      }
+    }
+  }
+}

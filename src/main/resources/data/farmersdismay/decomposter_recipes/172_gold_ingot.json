@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 2
+  },
+  "processing_time": 260
+}

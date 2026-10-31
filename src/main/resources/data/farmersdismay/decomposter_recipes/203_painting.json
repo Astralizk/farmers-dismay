@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:painting"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  },
+  "processing_time": 180
+}

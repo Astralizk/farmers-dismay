@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:purpur_block"
+  },
+  "result": {
+    "id": "minecraft:chorus_fruit",
+    "count": 2
+  },
+  "processing_time": 220
+}

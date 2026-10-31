@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:bi_sickle"
+    },
+    "title": "Environmentally chill",
+    "description": "me when the cycle has TWO wheels",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_digger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:bi_sickle"
+          }
+        ]
+      }
+    }
+  }
+}

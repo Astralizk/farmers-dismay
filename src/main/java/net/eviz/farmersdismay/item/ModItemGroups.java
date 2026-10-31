@@ -18,7 +18,7 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.CRUSHED_FARMERS_XP);
                         entries.add(ModItems.FARMERS_XP);
-                        entries.add(ModItems.POCKET_WATER);
+                        entries.add(ModItems.POCKET_WATERER);
                         entries.add(ModItems.BONEFEAST);
                         entries.add(ModBlocks.DECOMPOSTER);
                         entries.add(ModItems.ROT_FERTILIZER);
@@ -30,6 +30,12 @@ public class ModItemGroups {
                         entries.add(ModItems.SCULK_DUST);
                         entries.add(ModItems.ROTTEN_COMPOST);
                         entries.add(ModItems.PHANTOM_FEATHER);
+                        entries.add(ModItems.PHANTOM_WINGS);
+                        entries.add(ModBlocks.UNSTABLE_COMPOSTER_BLOCK);
+                        entries.add(ModItems.UNI_SICKLE);
+                        entries.add(ModItems.BI_SICKLE);
+                        entries.add(ModItems.RE_SICKLER);
+                        entries.add(ModItems.DIGGER);
 
 
                     }).build());

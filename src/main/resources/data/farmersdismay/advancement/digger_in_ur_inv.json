@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:digger"
+    },
+    "title": "I survived 100 days in mole civilization",
+    "description": "Some sort of... shovel knight",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_digger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:digger"
+          }
+        ]
+      }
+    }
+  }
+}

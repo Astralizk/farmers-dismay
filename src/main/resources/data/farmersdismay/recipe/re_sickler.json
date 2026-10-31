@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SFS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": {
+      "item": "farmersdismay:uni_sickle"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:re_sickler",
+    "count": 1
+  }
+}

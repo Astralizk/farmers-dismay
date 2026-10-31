@@ -1,7 +1,11 @@
 {
   "item.farmersdismay.farmers_xp": "Farmer's Xp",
   "item.farmersdismay.crushed_farmers_xp": "Crushed Farmer's Xp",
-  "item.farmersdismay.pocket_water": "Pocket Water",
+  "item.farmersdismay.pocket_waterer": "Pocket Waterer",
+  "item.farmersdismay.bi_sickle": "Bi-Sickle",
+  "item.farmersdismay.re_sickler": "Re-Sickler",
+  "item.farmersdismay.uni_sickle": "Uni-Sickle",
+  "item.farmersdismay.digger": "Digger",
   "item.farmersdismay.bonefeast": "Bonefeast",
   "item.farmersdismay.rot_fertilizer": "Rot Fertilizer",
   "item.farmersdismay.sculk_fertilizer": "Sculk Fertilizer",
@@ -12,6 +16,9 @@
   "item.farmersdismay.phantom_feather": "Phantom Feather",
   "item.farmersdismay.saccharose": "Saccharose",
   "item.farmersdismay.fertilizer": "Fertilizer",
+  "item.farmersdismay.phantom_wings": "Phantom Wings",
   "block.farmersdismay.decomposter": "Decomposter",
+  "block.farmersdismay.unstable_composter":"Unstable Composter",
   "itemgroup.farmersdismay.farmers_dismay_items": "Farmer's Dismay Items"
 }
+//i spent 11 hrs on this, this better get approved

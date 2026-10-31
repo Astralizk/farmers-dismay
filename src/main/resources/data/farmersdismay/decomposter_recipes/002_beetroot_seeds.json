@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:beetroot_seeds"
+  },
+  "result": {
+    "id": "farmersdismay:crushed_farmers_xp",
+    "count": 1
+  },
+  "processing_time": 120
+}

@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RFR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "farmersdismay:sculk_dust"
+    },
+    "F": {
+      "item": "farmersdismay:fertilizer"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:sculk_fertilizer",
+    "count": 1
+  }
+}

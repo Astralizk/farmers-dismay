@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 2
+  },
+  "processing_time": 260
+}

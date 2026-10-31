@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:honey_block"
+  },
+  "result": {
+    "id": "minecraft:honey_bottle",
+    "count": 2
+  },
+  "processing_time": 220
+}

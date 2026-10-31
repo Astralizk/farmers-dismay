@@ -1,0 +1,11 @@
+
+{
+  "ingredient": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "result": {
+    "id": "farmersdismay:phantom_feather",
+    "count": 3
+  },
+  "processing_time": 175
+}

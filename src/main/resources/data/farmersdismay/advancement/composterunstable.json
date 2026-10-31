@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmersdismay:unstable_composter"
+    },
+    "title": "GREAT news for gamblers",
+    "description": "99% of gamblers quit before their farm explodes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_digger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdismay:unstable_composter"
+          }
+        ]
+      }
+    }
+  }
+}

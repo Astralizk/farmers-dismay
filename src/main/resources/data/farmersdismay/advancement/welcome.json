@@ -1,0 +1,18 @@
+
+{
+  "display": {
+    "icon": {
+      "id": "farmerdismay:farmers_xp"
+    },
+    "title": "I dont know what to type here",
+    "description": "Play this mid mod for the first time!.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "joined_world": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RFR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "farmersdismay:phantom_feather"
+    },
+    "F": {
+      "item": "farmersdismay:fertilizer"
+    }
+  },
+  "result": {
+    "id": "farmersdismay:phantom_fertilizer",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:basalt"
+  },
+  "result": {
+    "id": "minecraft:glowstone_dust",
+    "count": 2
+  },
+  "processing_time": 240
+}

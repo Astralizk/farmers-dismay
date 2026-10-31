@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:warped_stem"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  },
+  "processing_time": 190
+}
